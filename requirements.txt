@@ -4,3 +4,5 @@ django-bootstrap5==25.2
 platformshconfig==2.4.0
 sqlparse==0.5.3
 tzdata==2025.2
+gunicorn
+psycopg2
